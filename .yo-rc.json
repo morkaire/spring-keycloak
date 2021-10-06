@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kairemor.test"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "accountservice",
+    "packageName": "com.kairemor.test",
+    "packageFolder": "com/kairemor/test",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGQyZTBlZDVhZGM5NWQzZDUyNzY0N2M0MjdkZDU5MjNiMjZkMmI3NjVlMzg3NTQwYmMyZGI5NWIwM2Q2ZDhmYTVlMmVmMDhlNmNlMTQ3M2Q4ZjMxNDIwOGUxMThhNzI0ZGRmOTcwZTFjODgyMzcxNGE1NTg1ZWQ5ZjI4ZGMyNzQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1633515580895,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
